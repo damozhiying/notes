@@ -1,8 +1,8 @@
 
-# close index
+## close index
 POST /etc-sh-index/_close                                    v
 
-#update index default analyzer
+##update index default analyzer  
 PUT /etc-sh-index/_settings
 {
             "analysis": {
@@ -17,5 +17,5 @@ PUT /etc-sh-index/_settings
 }
 
 
-# re-open index
+## re-open index
 POST /etc-sh-index/_open
