@@ -2,7 +2,7 @@
 ## close index
 POST /etc-sh-index/_close                                    v
 
-##update index default analyzer  
+## update index default analyzer  
 PUT /etc-sh-index/_settings
 {
             "analysis": {
