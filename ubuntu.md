@@ -1,3 +1,8 @@
+##sudo set no pwd
+1:sudo vi /etc/sudoers
+2:
+3:sudo apt-get update
+
 ##安装tsocks
     apt-get install tsocks  
 
