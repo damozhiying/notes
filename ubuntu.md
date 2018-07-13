@@ -2,7 +2,7 @@
 
 ``1:sudo vi /etc/sudoers  
 
-``2:  
+``2:  dmzy    ALL=(ALL:ALL) NOPASSWD:ALL
 
 ``3:sudo apt-get update  
 
